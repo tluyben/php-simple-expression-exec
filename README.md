@@ -2,12 +2,12 @@
 
 (Very) simple expression parser/execution for embedding formulas in PHP software
 
-Examples: 
+## Examples: 
 
-1+1
-1+2+3
-2*5+4
-2*(5+4)
-2*a+b
-my_field1-my_field2
+* 1+1
+* 1+2+3
+* 2*5+4
+* 2*(5+4)
+* 2*a+b
+* my_field1-my_field2
 
