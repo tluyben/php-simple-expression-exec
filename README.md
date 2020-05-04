@@ -10,4 +10,8 @@
 * 2*(5+4)
 * 2*a+b
 * my_field1-my_field2
+* "meaning of life"+(6*7)
+* -1*something
+* "hello world":-5
+* "hello world":5
 
